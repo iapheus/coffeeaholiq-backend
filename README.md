@@ -2,6 +2,8 @@
 
 #### This is the backend API source code for the [Coffeeaholiq](https://github.com/iapheus/coffeeaholiq) application. It uses ExpressJS, PostgreSQL, Kysely, JWT, and ZOD.
 
+#### To get started, add these to your .env file: ```DATABASE_URL```, ```JWT_SECRET``` and also ```PORT``` (optional — defaults to 3003 if not set)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/iapheus/coffeeaholiq-backend/refs/heads/main/images/coffeeaholiq-api-endpoints.png" width="800" height="500" alt="API Endpoints" style="display:inline-block;"/>
 </p>
